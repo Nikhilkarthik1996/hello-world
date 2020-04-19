@@ -4,8 +4,7 @@
     <title> Nikhil's Web page</title>
 </head>
 <body>
-      <img src="mine_1">
-      <img src width-50%>
+     Hi there!! Myself Nikhil!!!
 <H1>
       {
 	color-blue
