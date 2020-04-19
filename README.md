@@ -5,9 +5,4 @@
 </head>
 <body>
      Hi there!! Myself Nikhil!!!
-<H1>
-      {
-	color-blue
-	text-alignment:center;
-
 </body>
