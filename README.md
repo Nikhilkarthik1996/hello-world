@@ -13,10 +13,6 @@
       {
         color=red
         text-alignment:center;
-	width:200px;
-	height:400px;
-	margin:20px;
-	padding:10px:
-      }
+       }
 </style>
 </body>
