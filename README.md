@@ -9,10 +9,5 @@
       {
 	color-blue
 	text-alignment:center;
- <style>
-      {
-        color=red
-        text-alignment:center;
-       }
-</style>
+
 </body>
